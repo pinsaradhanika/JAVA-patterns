@@ -10,9 +10,13 @@ JAVA patterns - java Programs  for beginners
         *****
         
   2.Left Triangle
+  
               * 
           * * 
         * * * 
       * * * * 
     * * * * * 
+    
+    
+    
  
