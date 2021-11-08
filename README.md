@@ -16,7 +16,14 @@ JAVA patterns - java Programs  for beginners
         * * * 
       * * * * 
     * * * * * 
-    
+  
+  3.Pyramid(Upside)
+  
+     *
+  ***
+ *****
+*******
+
     
     
  
